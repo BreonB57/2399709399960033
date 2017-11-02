@@ -63,7 +63,7 @@
           },
           "title": "Hi, I'm Charlie",
           "text": "Hi, I am Charlie. I know many things about computers and development of programs, I have created many projects in the past including small games, bots, servers and plugins as well as random programs to do smaller tasks or to test my skills. I know Java, Scala and python and am very confident in these languages.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My work</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#mailtoform-1\" data-toolbar=\"-mbrBtnMove\">Contact me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider3-2\" data-toolbar=\"-mbrBtnMove\">My work</a>"
         },
         {
           "alias": "mailtoform",
